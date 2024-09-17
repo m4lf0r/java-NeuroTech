@@ -9,4 +9,4 @@
         <li>Matheus Arcelino</li>
     </ul>
 
-<h2>Construção de uma API REST para cadastro e gerenciamento das informações de usuários com atribuições específicas</h2>
+Construção de uma API REST para cadastro e gerenciamento das informações de usuários com atribuições específicas
